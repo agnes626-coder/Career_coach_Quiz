@@ -12,13 +12,12 @@ import {
 
 // Firebase 설정
 const firebaseConfig = {
-  apiKey: "AIzaSyBukV3jDZFyJoplHOXLUfpn4UTaKUGaV_E",
-  authDomain: "coaching-quiz-2026.firebaseapp.com",
-  projectId: "coaching-quiz-2026",
-  storageBucket: "coaching-quiz-2026.firebasestorage.app",
-  messagingSenderId: "874203183794",
-  appId: "1:874203183794:web:2007bf44055f9c950ae7ab",
-  measurementId: "G-BE2FGBR43C",
+  apiKey: "AIzaSyBYKhkIKiO19TcOiHSzFTNpgQlRvpKl7gc",
+  authDomain: "w07-career-coach-quiz.firebaseapp.com",
+  projectId: "w07-career-coach-quiz",
+  storageBucket: "w07-career-coach-quiz.firebasestorage.app",
+  messagingSenderId: "880577015733",
+  appId: "1:880577015733:web:f450f72433a1321805b3fc"
 };
 
 // 🔥 Firebase 초기화 (중복 방지)
